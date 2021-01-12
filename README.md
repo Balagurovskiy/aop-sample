@@ -1,5 +1,5 @@
 # aop-sample
-Simple implementation for aspect oriented programming. For join points were taken: loggining, exection time and argument validation.
+Simple implementation for aspect oriented programming. For join points were taken: logging, execution time and argument validation. 
 <ul>
   <li><a href="src/main/java/aop/spring_aspectj/named/">Pointcut by method name;</a></li>
   <li><a href="src/main/java/aop/spring_aspectj/annotated/">Pointcut by annotation;</a></li>
